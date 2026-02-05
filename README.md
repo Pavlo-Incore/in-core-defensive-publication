@@ -92,3 +92,11 @@ No permission for implementation is implied.
 This repository is **not** a product release.  
 It is **not** a specification.  
 It is a **structural declaration**.
+
+## Integrity & Prior Art Anchors
+
+Canonical SHA-256 integrity records for public In-Core documents are published here:
+
+- docs/INTEGRITY/CONSTITUTION_SHA256_RECORD.md
+
+These records establish immutable prior art timestamps and document integrity.
