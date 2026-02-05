@@ -95,8 +95,11 @@ It is a **structural declaration**.
 
 ## Integrity & Prior Art Anchors
 
-Canonical SHA-256 integrity records for public In-Core documents are published here:
+## Integrity & Prior Art Anchors
+
+Canonical SHA-256 integrity records for public In-Core constitutional documents are published here:
 
 - docs/INTEGRITY/CONSTITUTION_SHA256_RECORD.md
 
 These records establish immutable prior art timestamps and document integrity.
+
